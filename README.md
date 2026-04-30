@@ -1,5 +1,9 @@
 # WindroseIdleCpuFix
 
+# Notice
+This is no longer needed as of 04/30/2026. Windrose has patched the server/client to fix this entirely!! This repo has been archived. 
+---
+
 A [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) C++ mod that applies, at
 process startup, the same busy-spin throttle that
 [shipstuff/windrose-self-hosted's `patch-idle-cpu.py`](https://github.com/shipstuff/windrose-self-hosted/blob/main/scripts/patch-idle-cpu.py)
